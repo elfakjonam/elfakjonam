@@ -41,8 +41,11 @@ I enjoy building reliable systems, designing clean architectures, solving comple
   <tr>
     <td align="center" width="50%">
       <h3>📱 Mobile Development</h3>
-<img src="https://skillicons.dev/icons?i=react,android,apple&perline=3" alt="React Native, Android, iOS" />
-      <br />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" alt="Android" />
+  <img src="https://skillicons.dev/icons?i=apple" height="50" alt="iOS" />
+</p>      <br />
       <sub>React Native · Cross-Platform Applications</sub>
     </td>
     <td align="center" width="50%">
