@@ -4,7 +4,7 @@
 
 ### 7+ Years of Building Scalable & Modern Software
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Engineering+%7C+Node.js;Web+%26+Mobile+Applications;System+Design+%26+DevOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Engineering+%7C+Node.js;Web+%26+Mobile+Development;System+Design+%26+DevOps)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,228 +30,236 @@ I enjoy designing reliable systems, writing maintainable code, and building prod
 - 🌐 Modern web applications with React and Next.js
 - 📱 Cross-platform mobile development with React Native
 - 🏗️ Clean Architecture, DDD, and system design
-- 🔐 Secure APIs and authentication systems
+- 🔐 Secure APIs, authentication, and authorization
 - ☁️ Cloud infrastructure, DevOps, and CI/CD
-- 📊 Performance, reliability, and observability
+- 📊 Performance optimization and observability
 
 ---
 
 ## 🧩 Engineering Focus
 
-### My Technology Ecosystem
+<div align="center">
 
-A clean overview of how my engineering technologies connect across application development, backend systems, data, infrastructure, and delivery.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```mermaid
-flowchart TB
-    USER(["👤 Users"])
+<h3 align="center">🔵 Backend Engineering</h3>
 
-    subgraph CLIENT["🎨 CLIENT APPLICATIONS"]
-        direction LR
-        WEB["🌐 Web<br/>React · Next.js<br/>Redux · Chart.js"]
-        MOBILE["📱 Mobile<br/>React Native"]
-        UI["🎨 Design<br/>Figma · Canva"]
-    end
+<p align="center">
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+<a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+</p>
 
-    subgraph SERVER["⚙️ BACKEND ENGINEERING"]
-        direction LR
-        NODE["Node.js<br/>TypeScript"]
-        FRAMEWORK["NestJS<br/>Express.js"]
-        API["REST APIs<br/>JWT · Security"]
-        ARCH["Clean Architecture<br/>DDD · Microservices"]
-    end
+<p align="center">
+Scalable APIs · Microservices · Authentication · Clean Architecture · DDD
+</p>
 
-    subgraph STORAGE["🗄️ DATA & STORAGE"]
-        direction LR
-        SQL["Relational<br/>PostgreSQL · MySQL<br/>MariaDB · Oracle · SQLite"]
-        NOSQL["NoSQL & Graph<br/>MongoDB · Neo4j"]
-        CACHE["Cache & Search<br/>Redis · Elasticsearch"]
-        ORM["ORM<br/>Prisma"]
-    end
+</td>
+<td width="50%" valign="top">
 
-    subgraph EVENTS["🔄 MESSAGING & REAL-TIME"]
-        direction LR
-        KAFKA["Apache Kafka"]
-        RABBIT["RabbitMQ"]
-        SOCKET["Socket.IO"]
-    end
+<h3 align="center">🟣 Frontend Development</h3>
 
-    subgraph DELIVERY["☁️ DEVOPS & DELIVERY"]
-        direction LR
-        CLOUD["Cloud<br/>AWS · Terraform"]
-        CONTAINER["Containers<br/>Docker · Kubernetes"]
-        CI["CI/CD<br/>Jenkins · GitLab CI"]
-        NETWORK["Networking<br/>Nginx"]
-    end
+<p align="center">
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+<a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></a>
+<a href="https://www.chartjs.org/"><img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" /></a>
+</p>
 
-    subgraph OPERATIONS["📈 QUALITY & OBSERVABILITY"]
-        direction LR
-        TEST["Testing<br/>Jest · Vitest · Mocha"]
-        METRICS["Metrics<br/>Prometheus · Grafana"]
-        TRACK["Error Tracking<br/>Sentry"]
-    end
+<p align="center">
+Modern UI · Responsive Design · State Management · Web Performance
+</p>
 
-    subgraph WORKFLOW["🛠️ ENGINEERING WORKFLOW"]
-        direction LR
-        GIT["Git · GitHub · GitLab"]
-        PROJECT["Jira"]
-        TOOLS["Linux · VS Code"]
-    end
+</td>
+</tr>
 
-    USER --> WEB
-    USER --> MOBILE
+<tr>
+<td width="50%" valign="top">
 
-    WEB --> NODE
-    MOBILE --> NODE
+<h3 align="center">🟢 Mobile Development</h3>
 
-    NODE --> FRAMEWORK
-    FRAMEWORK --> API
-    API --> ARCH
+<p align="center">
+<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+</p>
 
-    API --> ORM
-    ORM --> SQL
-    ORM --> NOSQL
-    API --> CACHE
+<p align="center">
+Cross-Platform Apps · API Integration · Mobile Performance
+</p>
 
-    API --> KAFKA
-    API --> RABBIT
-    API --> SOCKET
+</td>
+<td width="50%" valign="top">
 
-    API --> CLOUD
-    CLOUD --> CONTAINER
-    CONTAINER --> CI
-    CI --> NETWORK
+<h3 align="center">🟠 Data & Persistence</h3>
 
-    API --> TEST
-    CI --> METRICS
-    API --> TRACK
+<p align="center">
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
+<a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
+</p>
 
-    GIT --> CI
-    PROJECT --> GIT
-    TOOLS --> GIT
+<p align="center">
+Data Modeling · Caching · Query Optimization · Search
+</p>
 
-    UI -.-> WEB
-    UI -.-> MOBILE
+</td>
+</tr>
 
-    classDef client fill:#DBEAFE,stroke:#2563EB,color:#1E3A8A,stroke-width:1.5px
-    classDef backend fill:#EDE9FE,stroke:#7C3AED,color:#4C1D95,stroke-width:1.5px
-    classDef data fill:#D1FAE5,stroke:#059669,color:#064E3B,stroke-width:1.5px
-    classDef messaging fill:#FFEDD5,stroke:#EA580C,color:#7C2D12,stroke-width:1.5px
-    classDef devops fill:#CFFAFE,stroke:#0891B2,color:#164E63,stroke-width:1.5px
-    classDef quality fill:#FCE7F3,stroke:#DB2777,color:#831843,stroke-width:1.5px
-    classDef workflow fill:#F3F4F6,stroke:#6B7280,color:#1F2937,stroke-width:1.5px
-    classDef user fill:#FFFFFF,stroke:#64748B,color:#0F172A,stroke-width:2px
+<tr>
+<td width="50%" valign="top">
 
-    class WEB,MOBILE,UI client
-    class NODE,FRAMEWORK,API,ARCH backend
-    class SQL,NOSQL,CACHE,ORM data
-    class KAFKA,RABBIT,SOCKET messaging
-    class CLOUD,CONTAINER,CI,NETWORK devops
-    class TEST,METRICS,TRACK quality
-    class GIT,PROJECT,TOOLS workflow
-    class USER user
+<h3 align="center">🔴 Messaging & Real-Time</h3>
 
-    style CLIENT fill:#EFF6FF,stroke:#93C5FD,stroke-width:2px
-    style SERVER fill:#F5F3FF,stroke:#C4B5FD,stroke-width:2px
-    style STORAGE fill:#ECFDF5,stroke:#6EE7B7,stroke-width:2px
-    style EVENTS fill:#FFF7ED,stroke:#FDBA74,stroke-width:2px
-    style DELIVERY fill:#ECFEFF,stroke:#67E8F9,stroke-width:2px
-    style OPERATIONS fill:#FDF2F8,stroke:#F9A8D4,stroke-width:2px
-    style WORKFLOW fill:#F9FAFB,stroke:#D1D5DB,stroke-width:2px
-```
+<p align="center">
+<a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /></a>
+<a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /></a>
+<a href="https://socket.io/"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" /></a>
+</p>
 
-<details>
-<summary><b>🎨 Diagram color legend</b></summary>
+<p align="center">
+Event-Driven Architecture · Message Queues · Real-Time Communication
+</p>
 
-| Color | Engineering Area |
-|---|---|
-| 🔵 Blue | Frontend & client applications |
-| 🟣 Purple | Backend & architecture |
-| 🟢 Green | Databases & persistence |
-| 🟠 Orange | Messaging & real-time systems |
-| 🩵 Cyan | Cloud, DevOps & delivery |
-| 🩷 Pink | Testing & observability |
-| ⚪ Grey | Development workflow |
+</td>
+<td width="50%" valign="top">
 
-</details>
+<h3 align="center">🩵 Cloud & DevOps</h3>
+
+<p align="center">
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+<a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" /></a>
+</p>
+
+<p align="center">
+CI/CD · Infrastructure as Code · Deployment · Automation
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🩷 Quality & Observability</h3>
+
+<p align="center">
+<a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /></a>
+<a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" /></a>
+<a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
+<a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
+<a href="https://sentry.io/"><img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" /></a>
+</p>
+
+<p align="center">
+Testing · Monitoring · Logging · Reliability · Performance
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">⚪ Engineering Workflow</h3>
+
+<p align="center">
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+<a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></a>
+</p>
+
+<p align="center">
+Version Control · Collaboration · Planning · Developer Experience
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 💻 Technology Stack
+## 💻 Complete Technology Stack
+
+<details>
+<summary><b>View all technologies</b></summary>
 
 ### Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### Backend & APIs
+### Backend & Frameworks
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma&theme=dark" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=flat-square&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/Microservices-Architecture-6A5ACD?style=flat-square" />
-</p>
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
 
 ### Frontend & Mobile
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css&theme=dark" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-Mobile-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-</p>
+### DevOps & Infrastructure
 
-### Databases & Storage
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch&theme=dark" />
-</p>
+### Messaging & Monitoring
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-</p>
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
-### Messaging & Real-Time
+### Testing & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-</p>
-
-### Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,nginx,gitlab&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
-</p>
-
-### Testing & Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,vitest,mocha,postman,git,github,gitlab,vscode,jira&theme=dark" />
-</p>
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ### Design & Machine Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva,pytorch,tensorflow&theme=dark" />
-</p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</details>
 
 ---
 
@@ -271,11 +279,11 @@ flowchart TB
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfakjonam&theme=tokyo-night&hide_border=true&area=true)](https://github.com/elfakjonam)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfakjonam&theme=tokyo-night&hide_border=true&area=true)](https://github.com/elfakjonam)
 
 </div>
 
@@ -295,7 +303,7 @@ I'm always open to connecting with developers, collaborating on meaningful proje
 
 <br/>
 
-**💡 Clean code. Thoughtful architecture. Software that scales.**
+**Clean code. Thoughtful architecture. Software that scales.**
 
 ⭐ Thanks for visiting my profile!
 
