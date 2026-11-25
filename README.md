@@ -21,57 +21,6 @@ I enjoy building reliable systems, designing clean architectures, solving comple
 
 ---
 
-## 🚀 Engineering Focus
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>⚙️ Backend Development</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js" />
-      <br />
-      <sub>APIs · Microservices · Authentication · System Design</sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>🌐 Web Development</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css" />
-      <br />
-      <sub>Modern UI · Responsive Apps · State Management</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>📱 Mobile Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,androidstudio,apple&theme=dark" alt="React, Android Studio, Apple" />
-</p>
-      <br />
-      <sub>React Native · Cross-Platform Applications</sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>☁️ DevOps & Infrastructure</h3>
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,nginx" />
-      <br />
-      <sub>CI/CD · Cloud · Containers · Deployment</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma" />
-      <br />
-      <sub>Data Modeling · Query Optimization · Caching</sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>📡 Distributed Systems</h3>
-      <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,firebase" />
-      <br />
-      <sub>Messaging · Event-Driven Systems · Real-Time Apps</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Technologies & Tools
 
 <p align="center">
