@@ -1,10 +1,10 @@
  <div align="center">
 
-# 👋 Hi, I'm a Full-Stack Developer
+# 👋 Hello, I'm a Full-Stack Developer
 
-### 7+ Years of Building Scalable, Reliable & Modern Software
+### 7+ Years of Building Scalable & Modern Software
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Backend+Engineering+with+Node.js;Web+%26+Mobile+Development;System+Design+%26+DevOps;Building+Software+That+Scales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Engineering+%7C+Node.js;Web+%26+Mobile+Applications;System+Design+%26+DevOps)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=elfakjonam&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=elfakjonam&style=flat-square&color=38BDF8&label=PROFILE+VIEWS)
 
 </div>
 
@@ -22,148 +22,162 @@
 
 ## 💫 About Me
 
-I'm a **Full-Stack Developer with 7+ years of hands-on coding experience**, specializing in backend engineering while building modern web and mobile applications.
+I'm a **Full-Stack Developer with 7+ years of hands-on coding experience**, specializing in backend engineering and scalable application development.
 
-I enjoy transforming complex requirements into scalable, secure, and maintainable software. My work spans the complete development lifecycle — from architecture and coding to deployment, monitoring, and continuous improvement.
+I enjoy designing reliable systems, writing maintainable code, and building products that solve real-world problems.
 
-- ⚙️ Backend engineering with Node.js, TypeScript, and NestJS
+- ⚙️ Backend development with Node.js, TypeScript, and NestJS
 - 🌐 Modern web applications with React and Next.js
 - 📱 Cross-platform mobile development with React Native
-- 🏗️ Clean Architecture, Domain-Driven Design, and system design
-- 🔐 Secure APIs, authentication, authorization, and application security
-- ☁️ Cloud infrastructure, DevOps, CI/CD, and deployment
-- 📊 Performance optimization, observability, and reliability
-- 🌱 Continuously learning and improving engineering practices
+- 🏗️ Clean Architecture, DDD, and system design
+- 🔐 Secure APIs and authentication systems
+- ☁️ Cloud infrastructure, DevOps, and CI/CD
+- 📊 Performance, reliability, and observability
 
 ---
 
 ## 🧩 Engineering Focus
 
-### Technology Ecosystem & Software Architecture
+### My Technology Ecosystem
 
-The diagram below illustrates how the technologies in my engineering toolkit fit into a modern application ecosystem — from user interfaces and backend services to data storage, messaging, infrastructure, and observability.
-
-> This is a technology capability map, not a claim that every technology is used together in one application. Specific choices depend on project requirements.
+A clean overview of how my engineering technologies connect across application development, backend systems, data, infrastructure, and delivery.
 
 ```mermaid
 flowchart TB
-    USER(["👤 Users & Clients"])
+    USER(["👤 Users"])
 
-    subgraph EXPERIENCE["🎨 Application Experience"]
-        WEB["Web Applications<br/>React · Next.js · Redux · Chart.js"]
-        MOBILE["Mobile Applications<br/>React Native"]
-        DESIGN["UI / UX & Design<br/>Figma · Canva"]
+    subgraph CLIENT["🎨 CLIENT APPLICATIONS"]
+        direction LR
+        WEB["🌐 Web<br/>React · Next.js<br/>Redux · Chart.js"]
+        MOBILE["📱 Mobile<br/>React Native"]
+        UI["🎨 Design<br/>Figma · Canva"]
     end
 
-    subgraph BACKEND["⚙️ Backend Engineering"]
-        API["API & Application Services<br/>Node.js · TypeScript · Java · Python"]
-        FRAMEWORKS["Frameworks & Libraries<br/>NestJS · Express.js"]
-        SECURITY["Security & Identity<br/>JWT · Authentication · Authorization"]
-        ARCH["Architecture<br/>Clean Architecture · DDD · Microservices"]
+    subgraph SERVER["⚙️ BACKEND ENGINEERING"]
+        direction LR
+        NODE["Node.js<br/>TypeScript"]
+        FRAMEWORK["NestJS<br/>Express.js"]
+        API["REST APIs<br/>JWT · Security"]
+        ARCH["Clean Architecture<br/>DDD · Microservices"]
     end
 
-    subgraph DATA["🗄️ Data & Persistence"]
-        SQL["Relational Databases<br/>PostgreSQL · MySQL · MariaDB · Oracle · SQLite"]
-        NOSQL["NoSQL & Specialized Databases<br/>MongoDB · Neo4j"]
-        CACHE["Caching & Search<br/>Redis · Elasticsearch"]
-        ORM["Data Access<br/>Prisma"]
+    subgraph STORAGE["🗄️ DATA & STORAGE"]
+        direction LR
+        SQL["Relational<br/>PostgreSQL · MySQL<br/>MariaDB · Oracle · SQLite"]
+        NOSQL["NoSQL & Graph<br/>MongoDB · Neo4j"]
+        CACHE["Cache & Search<br/>Redis · Elasticsearch"]
+        ORM["ORM<br/>Prisma"]
     end
 
-    subgraph COMMUNICATION["🔄 Messaging & Real-Time"]
-        EVENTS["Event Streaming<br/>Apache Kafka"]
-        QUEUES["Message Queues<br/>RabbitMQ"]
-        REALTIME["Real-Time Communication<br/>Socket.IO"]
+    subgraph EVENTS["🔄 MESSAGING & REAL-TIME"]
+        direction LR
+        KAFKA["Apache Kafka"]
+        RABBIT["RabbitMQ"]
+        SOCKET["Socket.IO"]
     end
 
-    subgraph INFRA["☁️ Infrastructure & DevOps"]
-        CLOUD["Cloud & Infrastructure<br/>AWS · Terraform"]
-        CONTAINERS["Containers & Orchestration<br/>Docker · Kubernetes"]
-        DELIVERY["CI/CD & Automation<br/>Jenkins · GitLab CI"]
-        NETWORK["Networking & Web Servers<br/>Nginx"]
+    subgraph DELIVERY["☁️ DEVOPS & DELIVERY"]
+        direction LR
+        CLOUD["Cloud<br/>AWS · Terraform"]
+        CONTAINER["Containers<br/>Docker · Kubernetes"]
+        CI["CI/CD<br/>Jenkins · GitLab CI"]
+        NETWORK["Networking<br/>Nginx"]
     end
 
-    subgraph QUALITY["🧪 Quality & Observability"]
-        TESTS["Testing<br/>Jest · Vitest · Mocha"]
-        MONITOR["Monitoring & Metrics<br/>Prometheus · Grafana"]
-        ERRORS["Error Tracking<br/>Sentry"]
-        LOGS["Logging · Performance · Reliability"]
+    subgraph OPERATIONS["📈 QUALITY & OBSERVABILITY"]
+        direction LR
+        TEST["Testing<br/>Jest · Vitest · Mocha"]
+        METRICS["Metrics<br/>Prometheus · Grafana"]
+        TRACK["Error Tracking<br/>Sentry"]
     end
 
-    subgraph WORKFLOW["🛠️ Engineering Workflow"]
-        VERSION["Version Control<br/>Git · GitHub · GitLab"]
-        COLLAB["Planning & Collaboration<br/>Jira"]
-        OS["Development Environment<br/>Linux · VS Code"]
+    subgraph WORKFLOW["🛠️ ENGINEERING WORKFLOW"]
+        direction LR
+        GIT["Git · GitHub · GitLab"]
+        PROJECT["Jira"]
+        TOOLS["Linux · VS Code"]
     end
 
     USER --> WEB
     USER --> MOBILE
 
-    WEB --> API
-    MOBILE --> API
+    WEB --> NODE
+    MOBILE --> NODE
 
-    API --> FRAMEWORKS
-    FRAMEWORKS --> SECURITY
-    FRAMEWORKS --> ARCH
+    NODE --> FRAMEWORK
+    FRAMEWORK --> API
+    API --> ARCH
 
     API --> ORM
     ORM --> SQL
     ORM --> NOSQL
     API --> CACHE
 
-    API --> EVENTS
-    API --> QUEUES
-    API --> REALTIME
+    API --> KAFKA
+    API --> RABBIT
+    API --> SOCKET
 
     API --> CLOUD
-    CLOUD --> CONTAINERS
-    CONTAINERS --> DELIVERY
-    DELIVERY --> NETWORK
+    CLOUD --> CONTAINER
+    CONTAINER --> CI
+    CI --> NETWORK
 
-    API --> TESTS
-    INFRA --> MONITOR
-    API --> ERRORS
-    MONITOR --> LOGS
+    API --> TEST
+    CI --> METRICS
+    API --> TRACK
 
-    VERSION --> DELIVERY
-    COLLAB --> VERSION
-    OS --> VERSION
+    GIT --> CI
+    PROJECT --> GIT
+    TOOLS --> GIT
 
-    DESIGN -. supports .-> WEB
-    DESIGN -. supports .-> MOBILE
+    UI -.-> WEB
+    UI -.-> MOBILE
 
-    classDef experience fill:#162D50,stroke:#38BDF8,color:#FFFFFF
-    classDef backend fill:#3B1F5C,stroke:#A78BFA,color:#FFFFFF
-    classDef data fill:#123D36,stroke:#34D399,color:#FFFFFF
-    classDef communication fill:#4A2A13,stroke:#FB923C,color:#FFFFFF
-    classDef infra fill:#243B53,stroke:#60A5FA,color:#FFFFFF
-    classDef quality fill:#4A1942,stroke:#F472B6,color:#FFFFFF
-    classDef workflow fill:#343434,stroke:#D4D4D4,color:#FFFFFF
+    classDef client fill:#DBEAFE,stroke:#2563EB,color:#1E3A8A,stroke-width:1.5px
+    classDef backend fill:#EDE9FE,stroke:#7C3AED,color:#4C1D95,stroke-width:1.5px
+    classDef data fill:#D1FAE5,stroke:#059669,color:#064E3B,stroke-width:1.5px
+    classDef messaging fill:#FFEDD5,stroke:#EA580C,color:#7C2D12,stroke-width:1.5px
+    classDef devops fill:#CFFAFE,stroke:#0891B2,color:#164E63,stroke-width:1.5px
+    classDef quality fill:#FCE7F3,stroke:#DB2777,color:#831843,stroke-width:1.5px
+    classDef workflow fill:#F3F4F6,stroke:#6B7280,color:#1F2937,stroke-width:1.5px
+    classDef user fill:#FFFFFF,stroke:#64748B,color:#0F172A,stroke-width:2px
 
-    class WEB,MOBILE,DESIGN experience
-    class API,FRAMEWORKS,SECURITY,ARCH backend
+    class WEB,MOBILE,UI client
+    class NODE,FRAMEWORK,API,ARCH backend
     class SQL,NOSQL,CACHE,ORM data
-    class EVENTS,QUEUES,REALTIME communication
-    class CLOUD,CONTAINERS,DELIVERY,NETWORK infra
-    class TESTS,MONITOR,ERRORS,LOGS quality
-    class VERSION,COLLAB,OS workflow
+    class KAFKA,RABBIT,SOCKET messaging
+    class CLOUD,CONTAINER,CI,NETWORK devops
+    class TEST,METRICS,TRACK quality
+    class GIT,PROJECT,TOOLS workflow
+    class USER user
+
+    style CLIENT fill:#EFF6FF,stroke:#93C5FD,stroke-width:2px
+    style SERVER fill:#F5F3FF,stroke:#C4B5FD,stroke-width:2px
+    style STORAGE fill:#ECFDF5,stroke:#6EE7B7,stroke-width:2px
+    style EVENTS fill:#FFF7ED,stroke:#FDBA74,stroke-width:2px
+    style DELIVERY fill:#ECFEFF,stroke:#67E8F9,stroke-width:2px
+    style OPERATIONS fill:#FDF2F8,stroke:#F9A8D4,stroke-width:2px
+    style WORKFLOW fill:#F9FAFB,stroke:#D1D5DB,stroke-width:2px
 ```
 
-### Core Engineering Principles
+<details>
+<summary><b>🎨 Diagram color legend</b></summary>
 
-| Area | Focus |
+| Color | Engineering Area |
 |---|---|
-| Architecture | Clean Architecture, DDD, modularity, separation of concerns |
-| Backend | Scalable APIs, microservices, event-driven systems |
-| Frontend | Reusable components, responsive interfaces, maintainable state |
-| Mobile | Cross-platform development and performance |
-| Data | Efficient queries, caching, data modeling, persistence |
-| Security | Authentication, authorization, secure API design |
-| DevOps | CI/CD, infrastructure automation, containerization |
-| Reliability | Testing, monitoring, logging, and observability |
+| 🔵 Blue | Frontend & client applications |
+| 🟣 Purple | Backend & architecture |
+| 🟢 Green | Databases & persistence |
+| 🟠 Orange | Messaging & real-time systems |
+| 🩵 Cyan | Cloud, DevOps & delivery |
+| 🩷 Pink | Testing & observability |
+| ⚪ Grey | Development workflow |
+
+</details>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technology Stack
 
 ### Languages
 
@@ -171,35 +185,30 @@ flowchart TB
   <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" />
 </p>
 
-### Backend & API Development
+### Backend & APIs
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-Engineering-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" />
   <img src="https://img.shields.io/badge/JWT-Authentication-black?style=flat-square&logo=jsonwebtokens" />
   <img src="https://img.shields.io/badge/Microservices-Architecture-6A5ACD?style=flat-square" />
 </p>
 
-### Frontend & Web Development
+### Frontend & Mobile
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css&theme=dark" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React_Native-Mobile-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
 </p>
 
-### Mobile Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,androidstudio,firebase&theme=dark" />
-</p>
-
-### Databases & Data Technologies
+### Databases & Storage
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch&theme=dark" />
@@ -209,18 +218,17 @@ flowchart TB
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
-### Messaging & Real-Time Systems
+### Messaging & Real-Time
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
-### Cloud, DevOps & Infrastructure
+### Cloud & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,nginx,gitlab&theme=dark" />
@@ -228,26 +236,15 @@ flowchart TB
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD-000000?style=flat-square&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
 </p>
 
-### Testing & Quality Engineering
+### Testing & Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,vitest,mocha,postman&theme=dark" />
-</p>
-
-### Monitoring & Observability
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,sentry&theme=dark" />
-</p>
-
-### Version Control & Collaboration
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jira,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jest,vitest,mocha,postman,git,github,gitlab,vscode,jira&theme=dark" />
 </p>
 
 ### Design & Machine Learning
@@ -258,7 +255,7 @@ flowchart TB
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -274,11 +271,11 @@ flowchart TB
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfakjonam&theme=tokyo-night&hide_border=true&area=true)](https://github.com/elfakjonam)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfakjonam&theme=tokyo-night&hide_border=true&area=true)](https://github.com/elfakjonam)
 
 </div>
 
@@ -286,20 +283,20 @@ flowchart TB
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with fellow developers, collaborating on meaningful projects, and discussing backend engineering, system design, architecture, and emerging technologies.
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mkafle595)
-
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkafle595@gmail.com)
+I'm always open to connecting with developers, collaborating on meaningful projects, and discussing software architecture, backend engineering, and emerging technologies.
 
 <br/>
 
-### 💡 Building software with purpose, architecture with clarity, and systems that scale.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mkafle595)
 
-**Thanks for visiting my profile!** ⭐
+[![Email](https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkafle595@gmail.com)
 
-<sub>Designed with ❤️ and a passion for engineering.</sub>
+<br/>
+
+**💡 Clean code. Thoughtful architecture. Software that scales.**
+
+⭐ Thanks for visiting my profile!
 
 </div>
