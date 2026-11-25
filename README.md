@@ -27,7 +27,7 @@ I enjoy building reliable systems, designing clean architectures, solving comple
   <tr>
     <td align="center" width="50%">
       <h3>⚙️ Backend Development</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,python" />
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js" />
       <br />
       <sub>APIs · Microservices · Authentication · System Design</sub>
     </td>
