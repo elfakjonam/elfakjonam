@@ -1,18 +1,197 @@
-# 💫 About Me:
-💻 Full-stack developer with 7+ years of hands-on coding experience<br><br>⚙️ Specialized in backend development with Node.js<br><br>🌐 Building modern web applications with React<br><br>📱 Developing cross-platform mobile applications with React Native<br><br>🏗️ Interested in scalable architecture, clean code, and system design<br><br>☁️ Experienced with DevOps practices, deployment, and infrastructure<br><br>🔍 Focused on performance, security, maintainability, and developer experience<br><br>🌱 Always exploring better ways to build and deliver software
+ <!-- Profile README for elfakjonam -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mkafle595) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mkafle595@gmail.com) 
+# 👋 Hello, I'm a Full-Stack Developer
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=elfakjonam&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=elfakjonam&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=elfakjonam&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Building scalable software · Designing reliable systems · Delivering products
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Node.js+%7C+React+%7C+React+Native;Backend+Engineering+%26+System+Design;DevOps+%26+Cloud+Infrastructure)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mkafle595)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkafle595@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elfakjonam)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=elfakjonam&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=elfakjonam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a **Full-Stack Developer with 7+ years of hands-on coding experience**, passionate about building high-quality, scalable, and maintainable software.
+
+My primary focus is backend engineering with **Node.js**, while also developing modern web applications using **React** and cross-platform mobile applications using **React Native**.
+
+I enjoy working across the entire software development lifecycle — from architecture and implementation to deployment, monitoring, and optimization.
+
+- 🔭 Building scalable backend systems and modern applications
+- ⚙️ Specialized in Node.js, TypeScript, and backend architecture
+- 🌐 Developing responsive and performant web applications
+- 📱 Creating cross-platform mobile experiences with React Native
+- 🏗️ Applying Clean Architecture, DDD, and system design principles
+- ☁️ Working with cloud infrastructure, DevOps, and CI/CD
+- 🔐 Focused on security, performance, and reliability
+- 🌱 Continuously learning and improving engineering practices
+
+---
+
+## 🧠 Engineering Focus
+
+<div align="center">
+
+| Backend Engineering | Frontend Development |
+|:---:|:---:|
+| Scalable APIs & Microservices | Modern React Applications |
+| Clean Architecture & DDD | Component-Based Architecture |
+| Authentication & Authorization | State Management |
+| Event-Driven Systems | Responsive UI & UX |
+
+| Mobile Development | DevOps & Infrastructure |
+|:---:|:---:|
+| React Native Applications | CI/CD Pipelines |
+| Cross-Platform Development | Docker & Containerization |
+| API Integration | Cloud & Deployment |
+| Performance Optimization | Monitoring & Observability |
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" />
+</p>
+
+### ⚙️ Backend & API Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,prisma&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-Engineering-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=flat-square&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-6A5ACD?style=flat-square" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css&theme=dark" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,firebase&theme=dark" />
+</p>
+
+### 🗄️ Databases & Data Storage
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white" />
+</p>
+
+### 🔄 Messaging & Real-Time Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis,socketio&theme=dark" />
+</p>
+
+### ☁️ DevOps, Cloud & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,nginx,githubactions,gitlab&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,linux,bash&theme=dark" />
+</p>
+
+### 🧪 Testing & Quality
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,vitest,mocha,postman&theme=dark" />
+</p>
+
+### 🎨 Tools & Collaboration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,canva,jira&theme=dark" />
+</p>
+
+### 🤖 Data Science & Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=elfakjonam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=elfakjonam&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfakjonam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfakjonam&theme=tokyo-night&hide_border=true&area=true)](https://github.com/elfakjonam)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, collaborating on meaningful projects, and discussing software architecture, backend engineering, and emerging technologies.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mkafle595)
+
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkafle595@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Great software is built with thoughtful architecture, clean code, and continuous improvement."
+
+<br/>
+
+**Thanks for visiting my profile!** ⭐
+
+<sub>Designed with ❤️ and a passion for engineering.</sub>
+
+</div>
+
