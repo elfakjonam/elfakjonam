@@ -73,7 +73,7 @@ I enjoy building reliable systems, designing clean architectures, solving comple
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,nestjs,react,nextjs,redux,postgres,mysql,mongodb,redis,prisma,docker,aws,kubernetes,jenkins,nginx,github,gitlab,vscode,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,nestjs,react,nextjs,redux,postgres,mysql,mongodb,redis,prisma,docker,aws,kubernetes,jenkins,nginx,github,gitlab,vscode,figma" />
 </p>
 
 ---
